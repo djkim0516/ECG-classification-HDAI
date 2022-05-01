@@ -2,7 +2,7 @@
 
 ## Model Architecture
 
-<img src="https://github.com/17011813/ECG-classification-HDAI-2021/blob/main/%EA%B7%B8%EB%A6%BC.png?raw=true" width="500">
+<img src="./img/캡처1.PNG" width="500">
 
 > 모델 전체 구조입니다.
 
@@ -19,7 +19,7 @@
 위와 같이 전처리를 수행한 데이터에 최종적으로 **맨 마지막 열**에 해당 신호들이 정상(0)인지 부정맥(1)인지에 대한 라벨을 아래 첨부한 그림과 같이 추가하였습니다.
 원래는 부정맥 라벨로 1에서 15까지의 각각의 class에 대한 라벨링을 진행하여 총 16개의 classification을 수행하려 하였으나, 본 대회에서 **binary classification** 으로 최종 예측을 진행하기 때문에 15개의 부정맥 라벨은 모두 1로 처리하였습니다.
 
-<img src="https://github.com/17011813/ECG-classification-HDAI-2021/blob/main/%EB%9D%BC%EB%B2%A8.PNG?raw=true" width="1000">
+<!-- <img src="https://github.com/17011813/ECG-classification-HDAI-2021/blob/main/%EB%9D%BC%EB%B2%A8.PNG?raw=true" width="1000"> -->
 
 > 하나의 부정맥 데이터의 구성 예시입니다.
 
