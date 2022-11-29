@@ -2,7 +2,7 @@
 
 ## Model Architecture
 
-<img src="./img/캡처1.PNG" width="500">
+<img src="./[주제2. 아기돌고래]/img/캡처1.PNG" width="500">
 
 > 모델 전체 구조입니다.
 
