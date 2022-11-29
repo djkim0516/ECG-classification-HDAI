@@ -51,10 +51,10 @@ $ python main.py
 
 코드 실행 중에 에러가 발생하셨다면 아래의 연락처로 언제든지 편하게 연락 주시면 빠르게 답변 드리도록 하겠습니다.
 
-**정원용**: justin715@korea.ac.kr (010-7370-5732)
+**정원용**: justin715@korea.ac.kr
 
-**김동준**: djkim0516@gmail.com (010-3722-3683)
+**김동준**: djkim0516@gmail.com 
 
-**노윤아**: yoona028@korea.ac.kr (010-7328-8238)
+**노윤아**: yoona028@korea.ac.kr 
 
 좋은 대회 열어주셔서 진심으로 감사합니다.
